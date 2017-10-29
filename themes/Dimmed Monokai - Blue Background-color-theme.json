@@ -1,5 +1,5 @@
 {
-  "type": "dark",
+  "type": "dark", // modified version of dimmed monokai
   "colors": {
     "dropdown.background": "#525252",
     "list.activeSelectionBackground": "#707070",
@@ -9,7 +9,7 @@
     "list.highlightForeground": "#c07020",
     "button.background": "#2C333D", // 565656
     "editor.background": "#2C333D",
-    "editor.foreground": "#c5c8c6",
+    "editor.foreground": "#dfdfdf", //c5c8c6
     "editor.selectionBackground": "#373b41",
     "editor.lineHighlightBackground": "#303030",
     "editorCursor.foreground": "#c07020",
