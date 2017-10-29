@@ -1,5 +1,5 @@
 {
-  "type": "dark", // modified version of dimmed monokai
+  "type": "dark",
   "colors": {
     "dropdown.background": "#525252",
     "list.activeSelectionBackground": "#707070",
