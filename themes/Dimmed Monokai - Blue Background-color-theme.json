@@ -2,7 +2,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#1e1e1e",
+				"background": "#2C333D",
 				"foreground": "#C5C8C6"
 			}
 		},
@@ -59,7 +59,7 @@
 			"settings": {
 				"fontStyle": "\n    ",
 				"foreground": "#8080FF",
-				"background": "#1e1e1e"
+				"background": "#2C333D"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"settings": {
 				"fontStyle": "\n    ",
 				"foreground": "#9B0000",
-				"background": "#1E1E1E"
+				"background": "#2C333D"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#1e1e1e",
+		"editor.background": "#2C333D",
 		"editorCursor.foreground": "#fc5604",
 		"editor.foreground": "#C5C8C6",
 		"editorWhitespace.foreground": "#4B4E55",
