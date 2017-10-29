@@ -1,0 +1,22 @@
+{
+    "name": "theme-dimmed-monokai-bluebg",
+    "displayName": "theme-dimmed-monokai-bluebg",
+    "description": "Dimmed Monokai - Blue Background",
+    "version": "0.0.1",
+    "publisher": "somq",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dimmed Monokai - Blue Background",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dimmed Monokai - Blue Background-color-theme.json"
+            }
+        ]
+    }
+}
