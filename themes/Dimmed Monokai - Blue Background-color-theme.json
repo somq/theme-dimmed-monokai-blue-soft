@@ -136,7 +136,7 @@
       "scope": "entity.name.class, entity.name.type",
       "settings": {
         "fontStyle": "\n   \t\t\t \t",
-        "foreground": "#9B0000",
+        "foreground": "#b62b2b",  // 9B0000
         "background": "#2C333D"
       }
     },
