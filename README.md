@@ -11,11 +11,11 @@ This repo. is a modified version of [Dimmed Monokai theme](https://raw.githubuse
 
 **Windows:**
 
-	git clone https://github.com/somq/theme-dimmed-monokai-bluebg.git %USERPROFILE%\.vscode\extensions\theme-materialize-behave
+	git clone https://github.com/somq/theme-dimmed-monokai-bluebg.git %USERPROFILE%\.vscode\extensions\theme-dimmed-monokai-bluebg
 
 **Max & Linux:**
 
-	git clone https://github.com/somq/theme-dimmed-monokai-bluebg.git ~/.vscode/extensions/theme-materialize-behave
+	git clone https://github.com/somq/theme-dimmed-monokai-bluebg.git ~/.vscode/extensions/theme-dimmed-monokai-bluebg
 
 2) select the theme in vscode
 Select the theme **(File > Preferences > Color theme...) or (Ctrl+K, Ctrl+T)**
