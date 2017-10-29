@@ -41,21 +41,21 @@
     {
       "settings": {
         "background": "#2C333D",
-        "foreground": "#C5C8C6"
+        "foreground": "#dfdfdf" //C5C8C6
       }
     },
     {
       "name": "By uonick",
       "settings": {
         "background": "#202025ff",
-        "foreground": "#c5c8c6ff"
+        "foreground": "#dfdfdf" //C5C8C6
       }
     },
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
         "background": "#2C333D",
-        "foreground": "#C5C8C6"
+        "foreground": "#dfdfdf" //C5C8C6
       }
     },
     {
@@ -394,7 +394,7 @@
         "meta.template.expression"
       ],
       "settings": {
-        "foreground": "#C5C8C6"
+        "foreground": "#dfdfdf" //C5C8C6
       }
     },
     {
